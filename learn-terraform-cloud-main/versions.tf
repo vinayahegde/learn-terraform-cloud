@@ -1,10 +1,10 @@
 terraform {
 
   cloud {
-    organization = "hashicorp-learn"
+    organization = "BHPEG-Dev"
 
     workspaces {
-      name = "learn-terraform-cloud"
+      name = "a_aws_devtest01_npe_999891"
     }
   }
 
